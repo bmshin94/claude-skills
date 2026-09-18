@@ -1,3 +1,24 @@
+# Claude Code Skills & Plugins (alirezarezvani/claude-skills)
+
+## 프로젝트 개요
+다양한 전문 분야의 380가지 실전 스킬과 30개 이상의 특화 에이전트를 하나로 묶어둔 "초대형 AI 에이전트 스킬 무기고"
+기획, 디자인, 리팩토링, 보안 점검 등 상황마다 필요한 특수 기술을 플러그인처럼 장착하여 에이전트의 지능을 대폭 업그레이드
+단 하나의 코딩 비서를 만능 멀티 플레이어 슈퍼 전문가 군단으로 변신시키는 궁극의 확장 팩
+
+## 핵심 특징 & 추천 분야
+- 380가지스킬무기고
+- 에이전트능력확장팩
+- 만능슈퍼전문가군단
+- 플러그인스킬장착
+- 궁극의생산성도구
+
+---
+*이 문서는 오픈소스 큐레이터(Curator-Agent)에 의해 자동 생성된 가이드 문서입니다.*
+
+
+---
+## 기존 CLAUDE.md 내용
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
